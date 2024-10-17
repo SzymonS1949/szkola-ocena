@@ -1,0 +1,27 @@
+
+header{
+    background-color: gray;
+    height: 120px;
+}
+main{
+    background-color:lightgreen;
+    height: 400px;
+    width: 70%;
+    float: left;
+    text-align:  center;
+
+}
+table{
+    display: inline-block;
+}
+aside {
+    background-color:mediumseagreen;
+    height: 400px;
+    width: 30%;
+    float: right;
+}
+footer{
+    clear:  both;
+    background-color:yellow ;
+    height: 60px;
+}
